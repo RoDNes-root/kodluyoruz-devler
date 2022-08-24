@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    min-height: 800px;
+    text-align: center;
+}
+.main {
+    position:relative;
+    margin: 50 10%;
+    font-weight: bold;
+}
+.menu li {
+    display: inline;
+    list-style: none;
+}
+.mainbaslik h1 {
+    color: red;
+    font-size: 32px;
+    font-style: italic;
+}
+.mainaltbaslik h3{
+    color: cadetblue;
+    font-size: 22px;
+
+}
+.icerik ul{
+    list-style: none;
+
+}
+#icerikh
+{
+    color: yellowgreen;
+   
+}
+.footer{
+    position:relative;
+    margin: 50 10%;
+    font-weight: bold;
+}
+.menualt {
+    height: 70px;
+    vertical-align: middle;
+}
+.menualt li{
+    display: inline;
+    list-style: none;
+    vertical-align: middle;
+}
+.imgurun {
+    width: 200px;
+    height: 200px;
+}
+.icerikurun ul{
+    list-style: none;
+}
+.mainaltbaslik2 {
+    color: yellowgreen;
+    font-size: 22px;
+    text-align: left;
+}
+.hakkimizdap {
+    text-align: left;
+}
+.altyazihakkimizda {
+    text-align: left;
+}
